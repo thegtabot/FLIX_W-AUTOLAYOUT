@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Flix
 //
-//  Created by Avishek Thapa Magar on 9/10/18.
-//  Copyright © 2018 Avishek Thapa Magar. All rights reserved.
+//  Created by Malcolm Gilmore on 9/10/18.
+//  Copyright © 2018 Malcolm Gilmore. All rights reserved.
 //
 
 import UIKit
